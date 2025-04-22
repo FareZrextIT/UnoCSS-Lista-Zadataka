@@ -1,32 +1,7 @@
-# SolidStart
+# UnoCSS Lista Zadataka(To-do list)
 
-Everything you need to build a Solid project, powered by [`solid-start`](https://start.solidjs.com);
+![image](https://github.com/user-attachments/assets/3fcf92e3-487d-4416-8770-881d480b79f1) <br>
+Home Page <br>
+![image](https://github.com/user-attachments/assets/b6e34617-d74c-4a86-ae20-2ba5aefac233) <br>
+About Page 
 
-## Creating a project
-
-```bash
-# create a new project in the current directory
-npm init solid@latest
-
-# create a new project in my-app
-npm init solid@latest my-app
-```
-
-## Developing
-
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
-
-```bash
-npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
-
-## Building
-
-Solid apps are built with _presets_, which optimise your project for deployment to different environments.
-
-By default, `npm run build` will generate a Node app that you can run with `npm start`. To use a different preset, add it to the `devDependencies` in `package.json` and specify in your `app.config.js`.
-
-## This project was created with the [Solid CLI](https://solid-cli.netlify.app)
